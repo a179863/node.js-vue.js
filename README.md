@@ -8,7 +8,9 @@
 升级完毕后，在目录文件夹Shift+右键， 打开命令行， 输入 npm install 进行依赖包安装
 
 安装完毕后，在目录文件夹打开命令行
-运行 npm run build 和 npm run dev
+运行 npm run build 进行打包，文件输出目录为output
+
+运行 npm run dev 进行开发（开发只需要运行 npm run dev）
 
 最后在浏览器中打开以下链接，进行开发
 http://localhost:8080/app/index/index.html
