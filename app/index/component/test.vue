@@ -1,15 +1,19 @@
 <template>
-	<div>{{msg}}</div>
+	<div @click="alt">{{msg}}</div>
 </template>
 
 <script>
 	export default {
 		data () {
-		return {
-			msg: '在座的各位都是垃圾'
+			return {
+				msg: '点击我',
+				alt:function(){
+					alert('你就是个垃圾');
+				}
+			}
 		}
 	}
-	}
+
 </script>
 
 <style>

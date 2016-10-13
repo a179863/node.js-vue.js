@@ -18,6 +18,7 @@ http://localhost:8080/app/index/index.html
 
 开发说明：
 
-谷歌浏览器安装vue-devtools 可以进行浏览器调试
+谷歌浏览器安装 vue.js devtools 插件可以进行浏览器vue调试, 以下链接访问需要跨域
+https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
 
-编辑器安装vue插件，可以使 .vue 文件高亮
+编辑器安装vue插件，使编辑器 .vue 文件高亮
